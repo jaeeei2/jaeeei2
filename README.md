@@ -1,6 +1,6 @@
 # 👋 안녕하세요 백재이입니다!
 
-"사람을 위한" Data scientist, Data analyist 를 꿈꾸는 백재이 입니다.
+"사람을 위한" Data scientist, Data analyst 를 꿈꾸는 백재이 입니다.
 
 데이터 분석과 머신러닝 학습을 기록하기 위한 공간입니다.
 
