@@ -7,8 +7,8 @@
 기초를 다지면서 기존 프로젝트를 기반으로 포트폴리오를 작성 중입니다.
 
 ## 📂 주요 프로젝트
-- 👩🏻‍💻 [웹사이트 피싱 분석 _ 머신러닝]
-((https://github.com/jaeeei2/Phishing-Website-Detection)
+- 👩🏻‍💻 [웹사이트 피싱 분석 (머신러닝)]
+(https://github.com/jaeeei2/Phishing-Website-Detection)
 - 🔍 [SUV 구매 예측 프로젝트](https://github.com/jaeeei2/SUV_project)
 - 🛍 [shop analysis](https://github.com/jaeeei2/shop_analysis)
 - 📊 [R을 이용한 기초 데이터 분석하기](https://github.com/jaeeei2/R-data)
