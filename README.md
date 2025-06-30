@@ -8,9 +8,11 @@
 
 ## 📂 주요 프로젝트
 - 👩🏻‍💻 [웹사이트 피싱 분석 (머신러닝)](https://github.com/jaeeei2/Phishing-Website-Detection)
+- 
+## 📂 기초 프로젝트
 - 🔍 [SUV 구매 예측 프로젝트](https://github.com/jaeeei2/SUV_project)
 - 🛍 [shop analysis](https://github.com/jaeeei2/shop_analysis)
-- 📊 [R을 이용한 기초 데이터 분석하기](https://github.com/jaeeei2/R-data)
+
 
 ## ✨ 관심 분야
 - 데이터 분석 (R, Python, Mysql, SAS)
